@@ -1,0 +1,1 @@
+# wazuh-windows-endpoint-monitoring
