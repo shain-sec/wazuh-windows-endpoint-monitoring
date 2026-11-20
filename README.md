@@ -68,8 +68,6 @@ flowchart TB
 │   └── screenshots/
 ├── reports/
 ├── README.md
-├── LICENSE
-└── .gitignore
 ```
 
 ## Implementation
